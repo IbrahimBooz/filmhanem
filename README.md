@@ -1,6 +1,6 @@
 # Filmhane
 
-Site Html, Css ve Js kullanılarak yaptım. Bu projeyi yapma amacım dark mode ve carousel öğrenmek ve Js ile yazabilmekti.
+Siteyi Html, Css ve Js kullanarak yaptım. Bu projeyi yapma amacım dark mode ve carousel öğrenmekti.
 
 # Site Ziyareti için: 
 
